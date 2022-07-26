@@ -1,0 +1,4 @@
+﻿  Constructor.cpp
+D:\C++\Visual Studio\Oop\Constructor\Constructor.cpp(26,27): error C2001: newline in constant
+D:\C++\Visual Studio\Oop\Constructor\Constructor.cpp(27,2): error C2146: syntax error: missing ')' before identifier 'person1'
+D:\C++\Visual Studio\Oop\Constructor\Constructor.cpp(27,2): error C2146: syntax error: missing ';' before identifier 'person1'
